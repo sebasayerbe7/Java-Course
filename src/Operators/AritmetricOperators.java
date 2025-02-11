@@ -1,6 +1,6 @@
 package Operators;
 
-public class Operators {
+public class AritmetricOperators {
     public static void main(String[] args) {
         // Operadores Aritmetricos - permiten realizar operaciones matematicas basicas
         var a = 9;
@@ -18,18 +18,5 @@ public class Operators {
         // Division /
         resultado = a / b;
         System.out.println("resultado division= " + resultado);
-
-
-        // Operadores Asignacion - permiten asignar valores a variables
-
-
-
-        // Operadores Comparacion - permiten comparar valores y regresa un valor booleano
-
-        // Operadores Logicos - permiten combinar expresiones booleanas y regresa un valor booleano
-
-        // Operadores Unarios - permiten realizan acciones sobre un solo operando. Incluye incremento/decremento
-
-        // Operador Condicional Ternario - Simplifica la sentencia if - else
     }
 }
